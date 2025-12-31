@@ -1,4 +1,4 @@
-# System Hardening with Packer
+# CIS Compliant System Hardening
 
 This repository provides a collection of Packer templates and associated scripts for building hardened machine images across different environments. The goal is to automate the process of securing systems according to publicly recognized security standards, enhancing their resilience against various threats.
 
